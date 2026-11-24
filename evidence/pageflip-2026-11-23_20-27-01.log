@@ -1,0 +1,138 @@
+Nov 23 20:27:36.483798 rocky /usr/libexec/gdm-wayland-session[5839]: 01:19:57.783 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:27:36.483798 rocky /usr/libexec/gdm-wayland-session[5839]: 01:19:57.783 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:29:14.878285 rocky /usr/libexec/gdm-wayland-session[5839]: 01:21:36.177 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:29:14.878285 rocky /usr/libexec/gdm-wayland-session[5839]: 01:21:36.177 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:29:14.949101 rocky /usr/libexec/gdm-wayland-session[5839]: 01:21:36.248 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:29:14.949101 rocky /usr/libexec/gdm-wayland-session[5839]: 01:21:36.248 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:29:19.981998 rocky /usr/libexec/gdm-wayland-session[5839]: 01:21:41.281 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:29:19.981998 rocky /usr/libexec/gdm-wayland-session[5839]: 01:21:41.281 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:02.916176 rocky /usr/libexec/gdm-wayland-session[5839]: 01:22:24.206 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:02.916176 rocky /usr/libexec/gdm-wayland-session[5839]: 01:22:24.206 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:50.874860 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.174 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:50.874860 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.174 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:51.029400 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.328 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:51.029400 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.329 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:51.050290 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.349 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:51.050290 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.349 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:51.484739 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.784 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:51.484739 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.784 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:51.584946 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.884 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:51.584946 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:12.884 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:54.287194 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:15.586 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:54.287194 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:15.586 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:54.429242 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:15.728 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:54.429242 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:15.728 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:54.479215 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:15.778 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:54.479215 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:15.778 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:54.880206 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:16.179 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:54.880206 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:16.179 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:55.009970 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:16.309 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:55.009970 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:16.309 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:59.859224 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.158 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:59.859224 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.158 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:30:59.959185 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.258 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:30:59.959185 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.258 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:00.017597 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.317 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:00.017597 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.317 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:00.172037 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.471 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:00.172037 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.471 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:00.180348 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.480 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:00.180348 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:21.480 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:04.895901 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.195 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:04.895901 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.195 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:04.954421 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.254 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:04.954421 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.254 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:05.096454 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.396 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:05.096454 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.396 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:05.288687 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.588 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:05.288687 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.588 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:05.459952 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.759 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:05.459952 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:26.759 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:08.333409 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:29.632 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:08.333409 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:29.632 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:12.790098 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:34.089 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:12.790098 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:34.089 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:15.508979 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:36.808 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:15.508979 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:36.808 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:15.613659 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:36.913 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:15.613659 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:36.913 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:15.626011 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:36.925 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:15.626011 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:36.925 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:16.106226 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:37.405 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:16.106226 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:37.405 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:18.754562 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:40.054 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:18.754562 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:40.054 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:31.526335 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:52.825 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:31.526335 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:52.825 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:31.748005 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.047 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:31.748005 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.047 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:31.806374 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.105 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:31.806374 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.105 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:31.927495 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.227 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:31.927495 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.227 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:31.973161 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.272 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:31.973161 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.272 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:32.077877 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.377 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:32.077877 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.377 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:32.127825 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.427 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:32.127825 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.427 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:32.253140 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.552 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:32.253140 rocky /usr/libexec/gdm-wayland-session[5839]: 01:23:53.552 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:49.557233 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:10.856 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:49.557233 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:10.856 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.113194 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.412 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.113194 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.412 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.129888 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.429 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.129888 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.429 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.226002 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.525 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.226002 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.525 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.255211 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.554 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.255211 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.554 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.276119 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.575 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.276119 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.575 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.372288 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.671 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.372288 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.671 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.447394 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.746 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.447394 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.747 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.518325 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.817 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.518325 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.817 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.555718 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.855 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.555718 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.855 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.597757 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.897 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.597757 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.897 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.622908 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.922 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.622908 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.922 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.681312 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.980 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.681312 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:13.980 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.773096 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:14.072 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.773096 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:14.072 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.785538 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:14.085 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.785538 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:14.085 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:52.802417 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:14.102 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:52.802417 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:14.102 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:58.641504 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:19.941 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:58.641504 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:19.941 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:58.670699 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:19.970 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:58.670699 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:19.970 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:31:58.908784 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:20.208 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:31:58.908784 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:20.208 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:32:01.193645 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:22.493 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:32:01.193645 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:22.493 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:32:02.500623 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:23.800 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:32:02.500623 rocky /usr/libexec/gdm-wayland-session[5839]: 01:24:23.800 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:33:50.390982 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:11.689 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:33:50.390982 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:11.690 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:33:51.338989 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:12.636 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:33:51.338989 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:12.637 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:33:51.609531 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:12.907 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:33:51.609531 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:12.907 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:33:52.156917 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:13.451 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:33:52.156917 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:13.452 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:33:52.395851 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:13.694 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:33:52.395851 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:13.695 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:33:52.788183 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:14.083 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:33:52.788183 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:14.084 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:34:17.747986 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:39.047 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:34:17.747986 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:39.047 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:34:18.220642 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:39.519 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:34:18.220642 rocky /usr/libexec/gdm-wayland-session[5839]: 01:26:39.520 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1

@@ -1,0 +1,902 @@
+===== boot -21 last 40 lines
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Removed slice system-systemd\x2dzram\x2dsetup.slice - Slice /system/systemd-zram-setup.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T11:14:17+01:00 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:14:17+01:00 fedora kernel: audit: type=1131 audit(1795256057.167:2155): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-21T11:14:17+01:00 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:14:17+01:00 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Shutting down.
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=483 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=482 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=432 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=431 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=489 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=488 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=490 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=492 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=491 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=509 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=508 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=497 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=496 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=502 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=501 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=503 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=505 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=504 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora audit: BPF prog-id=231 op=UNLOAD
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T11:14:17+01:00 fedora systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T11:14:17+01:00 fedora kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-21T11:14:17+01:00 fedora systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T11:14:17+01:00 fedora systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T11:14:17+01:00 fedora systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T11:14:17+01:00 fedora systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T11:14:17+01:00 fedora systemd-journald[44449]: Journal stopped
+===== boot -20 last 40 lines
+2026-11-21T11:30:20+01:00 fedora systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T11:30:20+01:00 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:30:20+01:00 fedora kernel: audit: type=1131 audit(1795257020.791:482): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T11:30:20+01:00 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:30:20+01:00 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:30:20+01:00 fedora systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Shutting down.
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=99 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=98 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=71 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=70 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T11:30:20+01:00 fedora systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T11:30:20+01:00 fedora kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-21T11:30:20+01:00 fedora systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T11:30:20+01:00 fedora systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T11:30:20+01:00 fedora systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T11:30:20+01:00 fedora systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T11:30:20+01:00 fedora systemd-journald[1466]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-21T11:30:20+01:00 fedora systemd-journald[1466]: Journal stopped
+===== boot -19 last 40 lines
+2026-11-21T11:43:13+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T11:43:13+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:43:13+01:00 rocky kernel: audit: type=1131 audit(1795257793.104:519): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T11:43:13+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-21T11:43:13+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:43:13+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=93 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=92 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T11:43:13+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T11:43:13+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-21T11:43:13+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T11:43:13+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T11:43:13+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T11:43:13+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T11:43:13+01:00 rocky systemd-journald[1498]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-21T11:43:13+01:00 rocky systemd-journald[1498]: Journal stopped
+===== boot -18 last 40 lines
+2026-11-21T12:06:16+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T12:06:16+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T12:06:16+01:00 rocky kernel: audit: type=1131 audit(1795259176.569:550): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T12:06:16+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-21T12:06:16+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:06:16+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=109 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=108 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T12:06:16+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T12:06:16+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-21T12:06:16+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T12:06:16+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T12:06:16+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T12:06:16+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T12:06:16+01:00 rocky systemd-journald[1413]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-21T12:06:16+01:00 rocky systemd-journald[1413]: Journal stopped
+===== boot -17 last 40 lines
+2026-11-21T12:30:56+01:00 rocky kernel: zram0: detected capacity change from 16777216 to 0
+2026-11-21T12:30:56+01:00 rocky systemd[1]: systemd-zram-setup@zram0.service: Deactivated successfully.
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Stopped systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+2026-11-21T12:30:56+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Removed slice system-systemd\x2dzram\x2dsetup.slice - Slice /system/systemd-zram-setup.
+2026-11-21T12:30:56+01:00 rocky kernel: audit: type=1131 audit(1795260656.567:542): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:30:56+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T12:30:56+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T12:30:56+01:00 rocky systemd[1]: systemd-poweroff.service: Deactivated successfully.
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Finished systemd-poweroff.service - System Power Off.
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Reached target poweroff.target - System Power Off.
+2026-11-21T12:30:56+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:30:56+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:30:56+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T12:30:56+01:00 rocky kernel: audit: type=1131 audit(1795260656.596:543): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=169 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=168 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T12:30:56+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T12:30:56+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T12:30:56+01:00 rocky systemd-journald[1470]: Journal stopped
+===== boot -16 last 40 lines
+2026-11-21T14:07:25+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T14:07:25+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:07:25+01:00 rocky kernel: audit: type=1131 audit(1795266445.458:486): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T14:07:25+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-21T14:07:25+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:07:25+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=86 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=85 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T14:07:25+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T14:07:25+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-21T14:07:25+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T14:07:25+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T14:07:25+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T14:07:25+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T14:07:25+01:00 rocky systemd-journald[1767]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-21T14:07:25+01:00 rocky systemd-journald[1767]: Journal stopped
+===== boot -15 last 40 lines
+2026-11-21T14:10:19+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:10:19+01:00 rocky kernel: audit: type=1131 audit(1795266619.821:335): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Removed slice system-systemd\x2dzram\x2dsetup.slice - Slice /system/systemd-zram-setup.
+2026-11-21T14:10:19+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T14:10:19+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T14:10:19+01:00 rocky kernel: audit: type=1131 audit(1795266619.856:336): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:10:19+01:00 rocky systemd[1]: systemd-poweroff.service: Deactivated successfully.
+2026-11-21T14:10:19+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:10:19+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Finished systemd-poweroff.service - System Power Off.
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Reached target poweroff.target - System Power Off.
+2026-11-21T14:10:19+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=94 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=93 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=74 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=73 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=97 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=96 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T14:10:19+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T14:10:19+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T14:10:19+01:00 rocky systemd-journald[1440]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-21T14:10:19+01:00 rocky systemd-journald[1440]: Journal stopped
+===== boot -14 last 40 lines
+2026-11-21T14:12:45+01:00 rocky kernel: zram0: detected capacity change from 16777216 to 0
+2026-11-21T14:12:45+01:00 rocky systemd[1]: systemd-zram-setup@zram0.service: Deactivated successfully.
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Stopped systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+2026-11-21T14:12:45+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Removed slice system-systemd\x2dzram\x2dsetup.slice - Slice /system/systemd-zram-setup.
+2026-11-21T14:12:45+01:00 rocky kernel: audit: type=1131 audit(1795266765.269:326): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:12:45+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T14:12:45+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T14:12:45+01:00 rocky systemd[1]: systemd-poweroff.service: Deactivated successfully.
+2026-11-21T14:12:45+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:12:45+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Finished systemd-poweroff.service - System Power Off.
+2026-11-21T14:12:45+01:00 rocky kernel: audit: type=1131 audit(1795266765.302:327): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Reached target poweroff.target - System Power Off.
+2026-11-21T14:12:45+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=74 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=73 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-21T14:12:45+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T14:12:45+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T14:12:45+01:00 rocky systemd-journald[1294]: Journal stopped
+===== boot -13 last 40 lines
+2026-11-21T14:43:08+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-21T14:43:08+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:43:08+01:00 rocky kernel: audit: type=1131 audit(1795268588.531:1469): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-21T14:43:08+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-21T14:43:08+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:43:08+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Shutting down.
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=153 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=155 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=154 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=156 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=158 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=157 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=162 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=161 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=164 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=163 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=172 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=171 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=168 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=167 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=176 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=175 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=377 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=376 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky audit: BPF prog-id=124 op=UNLOAD
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T14:43:08+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T14:43:08+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-21T14:43:08+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-21T14:43:08+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-21T14:43:08+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-21T14:43:08+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-21T14:43:08+01:00 rocky systemd-journald[1088]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-21T14:43:08+01:00 rocky systemd-journald[1088]: Journal stopped
+===== boot -12 last 40 lines
+2026-11-22T12:13:00+01:00 rocky wpa_supplicant[1956]: p2p-dev-wlo1: CTRL-EVENT-DSCP-POLICY clear_all
+2026-11-22T12:13:00+01:00 rocky wpa_supplicant[1956]: p2p-dev-wlo1: CTRL-EVENT-DSCP-POLICY clear_all
+2026-11-22T12:13:00+01:00 rocky wpa_supplicant[1956]: nl80211: deinit ifname=p2p-dev-wlo1 disabled_11b_rates=0
+2026-11-22T12:13:00+01:00 rocky systemd[1]: Reached target sleep.target - Sleep.
+2026-11-22T12:13:00+01:00 rocky systemd[1]: Starting nvidia-suspend.service - NVIDIA system suspend actions...
+2026-11-22T12:13:00+01:00 rocky wpa_supplicant[1956]: wlo1: CTRL-EVENT-DSCP-POLICY clear_all
+2026-11-22T12:13:00+01:00 rocky systemd[1]: nvidia-suspend.service: Skipped due to 'exec-condition'.
+2026-11-22T12:13:00+01:00 rocky systemd[1]: Condition check resulted in nvidia-suspend.service - NVIDIA system suspend actions being skipped.
+2026-11-22T12:13:00+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=nvidia-suspend comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T12:13:00+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=nvidia-suspend comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T12:13:00+01:00 rocky systemd[1]: Starting systemd-suspend.service - System Suspend...
+2026-11-22T12:13:00+01:00 rocky wpa_supplicant[1956]: wlo1: CTRL-EVENT-DSCP-POLICY clear_all
+2026-11-22T12:13:00+01:00 rocky wpa_supplicant[1956]: nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+2026-11-22T12:13:00+01:00 rocky systemd-sleep[107604]: User sessions remain unfrozen on explicit request ($SYSTEMD_SLEEP_FREEZE_USER_SESSIONS=0).
+2026-11-22T12:13:00+01:00 rocky systemd-sleep[107604]: This is not recommended, and might result in unexpected behavior, particularly
+2026-11-22T12:13:00+01:00 rocky systemd-sleep[107604]: in suspend-then-hibernate operations or setups with encrypted home directories.
+2026-11-22T12:13:00+01:00 rocky systemd-sleep[107604]: Performing sleep operation 'suspend'...
+2026-11-22T12:13:00+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:13:00+01:00 rocky dms[5674]:   WARN qt.multimedia.pipewire.devicemonitor: Ignoring dummy output: std::map(std::pair("client.id", "93"), std::pair("factory.id", "19"), std::pair("media.class", "Audio/Sink"), std::pair("node.description", "Dummy Output"), std::pair("node.name", "auto_null"), std::pair("object.serial", "1206"))
+2026-11-22T12:13:00+01:00 rocky dms[5674]:   WARN: Cannot enable background effect as ext-background-effect-v1 is not supported by the current compositor.
+2026-11-22T12:13:00+01:00 rocky dms[5674]:   WARN: Cannot find device:  "alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Speaker__sink"
+2026-11-22T12:13:01+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:23:14.070 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:13:01+01:00 rocky dms[5674]:   INFO qt.qpa.wayland: There are no outputs - creating placeholder screen
+2026-11-22T12:13:01+01:00 rocky dms[5674]:   INFO qml: [ShellCore] Screens changed: 2 'eDP-1','' hasReal: true hadReal: true
+2026-11-22T12:13:01+01:00 rocky dms[5674]:   INFO qml: [ShellCore] Screens changed: 1 '' hasReal: false hadReal: true
+2026-11-22T12:13:07+01:00 rocky steam[13687]: [16961:16961:1122/121307.608353:ERROR:gl_display.cc(497)] EGL Driver message (Error) eglGetMscRateANGLE: glXGetMscRateOML failed.
+2026-11-22T12:13:07+01:00 rocky dms[5674]:   INFO qml: [ShellCore] Screens changed: 1 '' hasReal: false hadReal: false
+2026-11-22T12:13:07+01:00 rocky dms[5674]:   WARN qml: [WlrOutputService:88] Received empty outputs list
+2026-11-22T12:13:07+01:00 rocky dms[5674]:   WARN quickshell.I3.ipc: I3 event socket disconnected.
+2026-11-22T12:13:08+01:00 rocky dms[5674]:   INFO qml: [WlrOutputService] Session resumed, re-requesting output state, current outputs: 0
+2026-11-22T12:13:08+01:00 rocky dms[5674]:   INFO qml: [ShellCore] Session resumed: screens: 1  barLoaded: true frameLoaded: true
+2026-11-22T12:13:08+01:00 rocky dms[5674]:   INFO qml: [ShellCore] Surface recovery triggered by: sessionResumed screens: 1  barLoaded: true frameLoaded: true
+2026-11-22T12:13:08+01:00 rocky dms[5674]:   WARN qml: [WlrOutputService:88] Received empty outputs list
+2026-11-22T12:13:08+01:00 rocky steam[13687]: Game Recording - Created timeline on system resume [gameid=3035570][started_recording=false]
+2026-11-22T12:13:08+01:00 rocky wireplumber[5628]: [1:23:46.032922899] [5628]  INFO Camera camera_manager.cpp:340 libcamera v0.7.2
+2026-11-22T12:13:08+01:00 rocky wireplumber[5628]: [1:23:46.041264141] [107667]  INFO Camera camera_manager.cpp:223 Adding camera '\_SB_.PC00.XHCI.RHUB.HS06-6:1.0-30c9:00ff' for pipeline handler uvcvideo
+2026-11-22T12:13:08+01:00 rocky steam[13687]: Game Recording - Created timeline on system resume [gameid=3035570][started_recording=false]
+2026-11-22T12:13:08+01:00 rocky wireplumber[5628]: spa.bluez5.midi: org.bluez.GattManager1.RegisterApplication() failed: GDBus.Error:org.bluez.Error.AlreadyExists: Already Exists
+2026-11-22T12:13:08+01:00 rocky dms[5625]:   INFO  go: gamma: output returned, re-establishing controls
+2026-11-22T12:13:08+01:00 rocky /usr/libexec/gdm-wayland-session[15069]: 2026-11-22 12:13:08 - [main.c:328] Could not find config for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+===== boot -11 last 40 lines
+2026-11-22T15:23:23+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T15:23:23+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T15:23:23+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T15:23:23+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T15:23:23+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T15:23:23+01:00 rocky kernel: audit: type=1131 audit(1795357403.193:1728): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=471 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=470 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=472 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=474 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=473 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=476 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=475 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=409 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=408 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=483 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=482 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=486 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=485 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=490 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=492 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=491 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=495 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=494 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T15:23:23+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T15:23:23+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T15:23:23+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T15:23:23+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T15:23:23+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T15:23:23+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T15:23:23+01:00 rocky systemd-journald[3046]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T15:23:23+01:00 rocky systemd-journald[3046]: Journal stopped
+===== boot -10 last 40 lines
+2026-11-22T17:09:57+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T17:09:57+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:09:57+01:00 rocky kernel: audit: type=1131 audit(1795363797.658:1052): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T17:09:57+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:09:57+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T17:09:57+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=326 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=325 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=282 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=281 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=349 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=348 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=328 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=330 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=329 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=340 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=339 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=346 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=345 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=341 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=343 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=342 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=351 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=350 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:09:57+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:09:57+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T17:09:57+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:09:57+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:09:57+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T17:09:57+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T17:09:57+01:00 rocky systemd-journald[2382]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T17:09:57+01:00 rocky systemd-journald[2382]: Journal stopped
+===== boot -9 last 40 lines
+2026-11-22T17:27:17+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T17:27:17+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T17:27:17+01:00 rocky kernel: audit: type=1131 audit(1795364837.104:418): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T17:27:17+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T17:27:17+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:27:17+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=108 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=110 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=109 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=113 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=112 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=121 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=120 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=128 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=127 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=137 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=136 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=115 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=117 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=116 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=131 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=130 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=133 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=132 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:27:17+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:27:17+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T17:27:17+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:27:17+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:27:17+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T17:27:17+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T17:27:17+01:00 rocky systemd-journald[1693]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T17:27:17+01:00 rocky systemd-journald[1693]: Journal stopped
+===== boot -8 last 40 lines
+2026-11-22T17:33:11+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T17:33:11+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:33:11+01:00 rocky kernel: audit: type=1131 audit(1795365191.313:392): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T17:33:11+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T17:33:11+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:33:11+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=119 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=118 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=124 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=123 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=127 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=126 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=129 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=131 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=130 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=133 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=132 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=83 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=82 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=138 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=137 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=139 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=141 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=140 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:33:11+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:33:11+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T17:33:11+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:33:11+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:33:11+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T17:33:11+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T17:33:11+01:00 rocky systemd-journald[1426]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T17:33:11+01:00 rocky systemd-journald[1426]: Journal stopped
+===== boot -7 last 40 lines
+2026-11-22T17:39:32+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T17:39:32+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T17:39:32+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:39:32+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:39:32+01:00 rocky kernel: audit: type=1131 audit(1795365572.551:298): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=74 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=73 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:39:32+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:39:32+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T17:39:32+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:39:32+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:39:32+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T17:39:32+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T17:39:32+01:00 rocky systemd-journald[1420]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T17:39:32+01:00 rocky systemd-journald[1420]: Journal stopped
+===== boot -6 last 40 lines
+2026-11-22T17:57:25+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T17:57:25+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:57:25+01:00 rocky kernel: audit: type=1131 audit(1795366645.144:981): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T17:57:25+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T17:57:25+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:57:25+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=337 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=336 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=340 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=339 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=350 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=349 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=342 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=344 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=343 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=365 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=364 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=351 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=353 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=352 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=357 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=356 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=362 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=361 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:57:25+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:57:25+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T17:57:25+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T17:57:25+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T17:57:25+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T17:57:25+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T17:57:25+01:00 rocky systemd-journald[1458]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T17:57:25+01:00 rocky systemd-journald[1458]: Journal stopped
+===== boot -5 last 40 lines
+2026-11-22T18:04:12+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T18:04:12+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T18:04:12+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T18:04:12+01:00 rocky kernel: audit: type=1131 audit(1795367052.986:312): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T18:04:12+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T18:04:12+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T18:04:12+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T18:04:12+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T18:04:12+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T18:04:12+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T18:04:12+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T18:04:12+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=51 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=53 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=52 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=45 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=47 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=46 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=50 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=49 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=56 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=55 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=60 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=59 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=71 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=70 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=102 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=101 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=65 op=UNLOAD
+2026-11-22T18:04:12+01:00 rocky audit: BPF prog-id=64 op=UNLOAD
+2026-11-22T18:04:13+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T18:04:13+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T18:04:13+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T18:04:13+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T18:04:13+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T18:04:13+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T18:04:13+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T18:04:13+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T18:04:13+01:00 rocky systemd-journald[1167]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T18:04:13+01:00 rocky systemd-journald[1167]: Journal stopped
+===== boot -4 last 40 lines
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Removed slice system-systemd\x2dzram\x2dsetup.slice - Slice /system/systemd-zram-setup.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T19:04:30+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:04:30+01:00 rocky kernel: audit: type=1131 audit(1795370670.718:530): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T19:04:30+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:04:30+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=139 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=141 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=140 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=145 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=144 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=173 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=172 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=148 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=150 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=149 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=152 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=151 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=157 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=156 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=154 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=153 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=164 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=163 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T19:04:30+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T19:04:30+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T19:04:30+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T19:04:30+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T19:04:30+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T19:04:30+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T19:04:30+01:00 rocky systemd-journald[1486]: Journal stopped
+===== boot -3 last 40 lines
+2026-11-22T19:09:39+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T19:09:39+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T19:09:39+01:00 rocky kernel: audit: type=1131 audit(1795370979.093:477): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T19:09:39+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:09:39+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-reboot comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T19:09:39+01:00 rocky systemd[1]: systemd-reboot.service: Deactivated successfully.
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Finished systemd-reboot.service - System Reboot.
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Reached target reboot.target - System Reboot.
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=102 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=101 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=115 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=114 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=105 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=104 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=108 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=107 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=109 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=111 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=110 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=125 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=124 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=120 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=122 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=121 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=127 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=126 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T19:09:39+01:00 rocky systemd[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T19:09:39+01:00 rocky kernel: watchdog: watchdog0: watchdog did not stop!
+2026-11-22T19:09:39+01:00 rocky systemd-shutdown[1]: Using hardware watchdog /dev/watchdog0: 'iTCO_wdt', version 6.
+2026-11-22T19:09:39+01:00 rocky systemd-shutdown[1]: Watchdog running with a hardware timeout of 10min.
+2026-11-22T19:09:39+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T19:09:39+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T19:09:39+01:00 rocky systemd-journald[1944]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T19:09:39+01:00 rocky systemd-journald[1944]: Journal stopped
+===== boot -2 last 40 lines
+2026-11-22T23:28:47+01:00 rocky kernel: zram0: detected capacity change from 16777216 to 0
+2026-11-22T23:28:47+01:00 rocky systemd[1]: systemd-zram-setup@zram0.service: Deactivated successfully.
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Stopped systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+2026-11-22T23:28:47+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Removed slice system-systemd\x2dzram\x2dsetup.slice - Slice /system/systemd-zram-setup.
+2026-11-22T23:28:47+01:00 rocky kernel: audit: type=1131 audit(1795386527.798:7158): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-zram-setup@zram0 comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T23:28:47+01:00 rocky systemd[1]: lvm2-monitor.service: Deactivated successfully.
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2026-11-22T23:28:47+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=lvm2-monitor comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Reached target shutdown.target - System Shutdown.
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Reached target final.target - Late Shutdown Services.
+2026-11-22T23:28:47+01:00 rocky systemd[1]: systemd-poweroff.service: Deactivated successfully.
+2026-11-22T23:28:47+01:00 rocky audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T23:28:47+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-poweroff comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Finished systemd-poweroff.service - System Power Off.
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Reached target poweroff.target - System Power Off.
+2026-11-22T23:28:47+01:00 rocky systemd[1]: Shutting down.
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=500 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=499 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=502 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=501 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=505 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=504 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=508 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=510 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=509 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=547 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=546 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=514 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=513 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=581 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=580 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=542 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=544 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=543 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky audit: BPF prog-id=41 op=UNLOAD
+2026-11-22T23:28:47+01:00 rocky systemd-shutdown[1]: Syncing filesystems and block devices.
+2026-11-22T23:28:47+01:00 rocky systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+2026-11-22T23:28:47+01:00 rocky systemd-journald[1186]: Received SIGTERM from PID 1 (systemd-shutdow).
+2026-11-22T23:28:47+01:00 rocky systemd-journald[1186]: Journal stopped
+===== boot -1 last 40 lines
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 157 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 165 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 165 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 155 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 155 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 163 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 163 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 153 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 153 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 161 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 161 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 168 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 168 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 158 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 158 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 166 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 166 affinity is now unmanaged
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: Cannot change IRQ 156 affinity: Permission denied
+2026-11-23T19:01:33+01:00 rocky irqbalance[1807]: IRQ 156 affinity is now unmanaged
+2026-11-23T19:01:37+01:00 rocky systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+2026-11-23T19:01:37+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-23T19:01:40+01:00 rocky bluetoothd[1797]: profiles/audio/avdtp.c:avdtp_connect_cb() connect to 6C:12:70:5A:DB:37: Function not implemented (38)
+2026-11-23T19:01:45+01:00 rocky kernel: input: AirPods de Yuechao (AVRCP) as /devices/virtual/input/input34
+2026-11-23T19:01:45+01:00 rocky systemd-logind[1859]: Watching system buttons on /dev/input/event20 (AirPods de Yuechao (AVRCP))
+2026-11-23T19:01:50+01:00 rocky bluetoothd[1797]: /org/bluez/hci0/dev_6C_12_70_5A_DB_37/sep2/fd0: fd(29) ready
+2026-11-23T19:01:50+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 06:57:35.495 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+2026-11-23T19:01:50+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 06:57:35.495 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+2026-11-23T19:01:56+01:00 rocky systemd[1]: fprintd.service: Deactivated successfully.
+2026-11-23T19:01:56+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-23T19:01:56+01:00 rocky audit: BPF prog-id=459 op=UNLOAD
+2026-11-23T19:02:10+01:00 rocky systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+2026-11-23T19:02:10+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-hostnamed comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-23T19:02:10+01:00 rocky audit: BPF prog-id=454 op=UNLOAD
+2026-11-23T19:02:35+01:00 rocky chronyd[1808]: Detected falseticker 217.160.163.33 (2.fedora.pool.ntp.org)
+2026-11-23T19:02:35+01:00 rocky chronyd[1808]: Detected falseticker 188.26.208.19
+2026-11-23T19:02:35+01:00 rocky chronyd[1808]: Detected falseticker 82.223.222.97 (2.fedora.pool.ntp.org)
+2026-11-23T19:02:35+01:00 rocky chronyd[1808]: Detected falseticker 162.159.200.123 (2.fedora.pool.ntp.org)
+2026-11-23T19:02:35+01:00 rocky chronyd[1808]: Selected source 84.77.195.114 (2.fedora.pool.ntp.org)
+2026-11-23T19:02:35+01:00 rocky chronyd[1808]: Detected falseticker 82.223.222.97 (2.fedora.pool.ntp.org)
+2026-11-23T19:03:39+01:00 rocky chronyd[1808]: Selected source 217.160.163.33 (2.fedora.pool.ntp.org)
+===== boot 0 last 40 lines
+2026-11-23T19:47:24+01:00 rocky kernel: atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+2026-11-23T19:47:24+01:00 rocky kernel: atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+2026-11-23T19:47:24+01:00 rocky kernel: atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+2026-11-23T19:47:25+01:00 rocky kernel: atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+2026-11-23T19:47:25+01:00 rocky kernel: atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+2026-11-23T19:47:25+01:00 rocky kernel: atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+2026-11-23T19:47:25+01:00 rocky kernel: atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+2026-11-23T19:47:38+01:00 rocky systemd[1]: fprintd.service: Deactivated successfully.
+2026-11-23T19:47:38+01:00 rocky audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+2026-11-23T19:47:39+01:00 rocky audit: BPF prog-id=93 op=UNLOAD
+2026-11-23T19:47:54+01:00 rocky /usr/libexec/gdm-wayland-session[5839]: 00:40:15.329 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+2026-11-23T19:47:54+01:00 rocky /usr/libexec/gdm-wayland-session[5839]: 00:40:15.329 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: ghostty version=1.4.0-3.fc45
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: ghostty build optimize=fast
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: runtime=.gtk
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: font_backend=.fontconfig_freetype
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: dependency harfbuzz=15.0.0
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: dependency fontconfig=21803
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: renderer=renderer.generic.Renderer(renderer.OpenGL)
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: libxev default backend=io_uring
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(os_locale): setlocale from env result=en_GB.UTF-8
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(gtk): GTK version build=4.24.1 runtime=4.24.1
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(gtk): libadwaita version build=1.10.0 runtime=1.10.0
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info: reading configuration file path=/home/yuechao/.config/ghostty/config
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(cli): compatibility handler for background-blur-radius handled error, you may be using a deprecated field: error.InvalidField
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(cli): compatibility handler for scrollback-limit handled error, you may be using a deprecated field: error.InvalidField
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(cli): compatibility handler for copy-on-select handled error, you may be using a deprecated field: error.InvalidValue
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(cli): compatibility handler for background-blur-radius handled error, you may be using a deprecated field: error.InvalidField
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(cli): compatibility handler for scrollback-limit handled error, you may be using a deprecated field: error.InvalidField
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(cli): compatibility handler for copy-on-select handled error, you may be using a deprecated field: error.InvalidValue
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(config): default shell src=passwd value=/usr/bin/zsh
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: info(config): default working directory src=passwd value=/home/yuechao
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: warning(gtk_ghostty_application): setting GDK_DEBUG=
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[94284]: warning(gtk_ghostty_application): setting GDK_DISABLE=vulkan
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[8688]: info(gtk_ghostty_surface): surface content scale: x=1.25 y=1.25 dpi=120x120 font_size=12
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): found Ghostty resources dir: /usr/share/ghostty
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): shell integration automatically injected shell=.zsh
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[8688]: info(opengl): loaded OpenGL 4.6
+2026-11-23T19:50:45+01:00 rocky systemd[5731]: Started app-ghostty-surface-transient-94330.scope.
+2026-11-23T19:50:45+01:00 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): started subcommand path=/bin/sh pid=94330

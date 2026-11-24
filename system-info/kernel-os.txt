@@ -1,0 +1,4 @@
+Linux rocky 7.3.4-300.fc45.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Nov 11 00:15:32 UTC 2026 x86_64 GNU/Linux
+Fedora release 45 (Forty Five)
+
+BOOT_IMAGE=(hd1,gpt2)/vmlinuz-7.3.4-300.fc45.x86_64 root=UUID=eb6dc027-c80d-4fe1-83e7-fc7b7ec02332 ro rootflags=subvol=root rd.luks.uuid=luks-890daa1a-cbf9-4248-bb06-2d0b9fba1546 rhgb quiet rd.driver.blacklist=nouveau,nova_core modprobe.blacklist=nouveau,nova_core i915.enable_psr=0

@@ -1,0 +1,22 @@
+== START 2026-11-23 20:43:06.076
+boot_id: 0279ba15-8f56-4dc4-a0ee-ce4354cfc2fd
+kernel: 7.3.4-300.fc45.x86_64
+cmdline: BOOT_IMAGE=(hd1,gpt2)/vmlinuz-7.3.4-300.fc45.x86_64 root=UUID=eb6dc027-c80d-4fe1-83e7-fc7b7ec02332 ro rootflags=subvol=root rd.luks.uuid=luks-890daa1a-cbf9-4248-bb06-2d0b9fba1546 rhgb quiet rd.driver.blacklist=nouveau,nova_core modprobe.blacklist=nouveau,nova_core i915.enable_psr=0
+refresh/mode: eDP-1 {'width': 2560, 'height': 1600, 'refresh': 240000, 'picture_aspect_ratio': 'none'} scale 1.25 adaptive_sync disabled
+drm.debug last set: 2026-11-23 20:10:12.245979572 +0100 (value needs root to read)
+last DP debug line: Nov 23 20:40:08.895486 rocky kernel: i91
+AC online: 1  battery: 80% Not charging
+nvidia: 620.70.06, 11.95 W, 46.78, P8
+sway: 1.12
+
+== END 2026-11-23 21:35:22.010
+boot_id: 0279ba15-8f56-4dc4-a0ee-ce4354cfc2fd
+kernel: 7.3.4-300.fc45.x86_64
+cmdline: BOOT_IMAGE=(hd1,gpt2)/vmlinuz-7.3.4-300.fc45.x86_64 root=UUID=eb6dc027-c80d-4fe1-83e7-fc7b7ec02332 ro rootflags=subvol=root rd.luks.uuid=luks-890daa1a-cbf9-4248-bb06-2d0b9fba1546 rhgb quiet rd.driver.blacklist=nouveau,nova_core modprobe.blacklist=nouveau,nova_core i915.enable_psr=0
+refresh/mode: eDP-1 {'width': 2560, 'height': 1600, 'refresh': 240000, 'picture_aspect_ratio': 'none'} scale 1.25 adaptive_sync disabled
+drm.debug last set: 2026-11-23 20:10:12.245979572 +0100 (value needs root to read)
+last DP debug line: Nov 23 21:35:04.657115 rocky kernel: i91
+AC online: 1  battery: 80% Not charging
+nvidia: 620.70.06, 12.72 W, 59.22, P8
+sway: 1.12
+

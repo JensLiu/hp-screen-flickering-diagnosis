@@ -1,0 +1,168 @@
+2026-11-21T11:45:01+01:00 rocky /usr/libexec/gdm-wayland-session[16762]: 2026-11-21 11:45:01 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-21T12:28:48+01:00 rocky systemd-logind[1859]: suspend requested from client PID 42222 ('systemctl') (unit user@1000.service)...
+2026-11-21T12:28:48+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T12:28:48+01:00 rocky /usr/libexec/gdm-wayland-session[5974]: 00:21:51.107 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T12:29:48+01:00 rocky kernel: PM: suspend exit
+2026-11-21T12:29:48+01:00 rocky systemd-sleep[42266]: System returned from sleep operation 'suspend'.
+2026-11-21T12:29:56+01:00 rocky systemd-logind[1859]: suspend requested from client PID 42716 ('systemctl') (unit user@1000.service)...
+2026-11-21T12:29:57+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T12:29:57+01:00 rocky /usr/libexec/gdm-wayland-session[5974]: 00:22:03.342 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T12:30:18+01:00 rocky kernel: PM: suspend exit
+2026-11-21T12:30:18+01:00 rocky systemd-sleep[42777]: System returned from sleep operation 'suspend'.
+2026-11-21T14:02:04+01:00 rocky systemd-logind[2157]: suspend requested from client PID 13887 ('systemctl') (unit session-c2.scope)...
+2026-11-21T14:02:05+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T14:02:05+01:00 rocky /usr/libexec/gdm-wayland-session[5710]: 00:05:30.745 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T14:02:54+01:00 rocky kernel: PM: suspend exit
+2026-11-21T14:02:54+01:00 rocky systemd-sleep[13971]: System returned from sleep operation 'suspend'.
+2026-11-21T14:08:22+01:00 rocky systemd-logind[1858]: suspend requested from client PID 6075 ('systemctl') (unit user@1000.service)...
+2026-11-21T14:08:23+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T14:08:23+01:00 rocky /usr/libexec/gdm-wayland-session[5531]: 00:00:10.693 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T14:08:46+01:00 rocky systemd-sleep[6521]: System returned from sleep operation 'suspend'.
+2026-11-21T14:08:46+01:00 rocky kernel: PM: suspend exit
+2026-11-21T14:09:32+01:00 rocky systemd-logind[1858]: suspend requested from client PID 7136 ('systemctl') (unit user@1000.service)...
+2026-11-21T14:09:32+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T14:09:32+01:00 rocky /usr/libexec/gdm-wayland-session[5531]: 00:01:00.700 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T14:09:54+01:00 rocky systemd-sleep[7177]: System returned from sleep operation 'suspend'.
+2026-11-21T14:09:54+01:00 rocky kernel: PM: suspend exit
+2026-11-21T14:11:56+01:00 rocky systemd-logind[1698]: suspend requested from client PID 9529 ('gnome-session-s') (unit user@1000.service)...
+2026-11-21T14:11:57+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T14:12:25+01:00 rocky systemd-sleep[14713]: System returned from sleep operation 'suspend'.
+2026-11-21T14:12:25+01:00 rocky kernel: PM: suspend exit
+2026-11-21T14:13:42+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T14:13:54+01:00 rocky systemd-sleep[4919]: System returned from sleep operation 'suspend'.
+2026-11-21T14:13:54+01:00 rocky kernel: PM: suspend exit
+2026-11-21T14:14:21+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T14:14:21+01:00 rocky /usr/libexec/gdm-wayland-session[6263]: 00:00:18.441 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T14:14:31+01:00 rocky systemd-sleep[6773]: System returned from sleep operation 'suspend'.
+2026-11-21T14:14:31+01:00 rocky kernel: PM: suspend exit
+2026-11-21T15:24:59+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T15:25:00+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 00:40:39.442 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T15:55:59+01:00 rocky systemd-sleep[79440]: System returned from sleep operation 'suspend'.
+2026-11-21T15:55:59+01:00 rocky kernel: PM: suspend exit
+2026-11-21T16:10:08+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T16:10:08+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 00:54:56.251 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-21T16:56:38+01:00 rocky systemd-sleep[89081]: System returned from sleep operation 'suspend'.
+2026-11-21T16:56:38+01:00 rocky kernel: PM: suspend exit
+2026-11-21T17:15:20+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-21T17:15:20+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:13:40.659 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T10:05:01+01:00 rocky systemd-sleep[99850]: System returned from sleep operation 'suspend'.
+2026-11-22T10:05:01+01:00 rocky kernel: PM: suspend exit
+2026-11-22T10:09:00+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T10:09:00+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:17:42.096 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:06:49+01:00 rocky systemd-sleep[102147]: System returned from sleep operation 'suspend'.
+2026-11-22T12:06:49+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:07:17+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:07:17+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:18:12.495 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:07:23+01:00 rocky systemd-sleep[102697]: System returned from sleep operation 'suspend'.
+2026-11-22T12:07:23+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:07:51+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:07:51+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:18:42.911 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:07:53+01:00 rocky systemd-sleep[103288]: System returned from sleep operation 'suspend'.
+2026-11-22T12:07:53+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:08:22+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:08:26+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:19:14.285 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:08:27+01:00 rocky systemd-sleep[103740]: System returned from sleep operation 'suspend'.
+2026-11-22T12:08:27+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:08:55+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:08:56+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:19:43.765 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:09:04+01:00 rocky systemd-sleep[104326]: System returned from sleep operation 'suspend'.
+2026-11-22T12:09:04+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:09:32+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:09:32+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:20:14.256 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:09:40+01:00 rocky systemd-sleep[104803]: System returned from sleep operation 'suspend'.
+2026-11-22T12:09:40+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:10:08+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:10:08+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:20:44.675 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:10:16+01:00 rocky systemd-sleep[105359]: System returned from sleep operation 'suspend'.
+2026-11-22T12:10:16+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:10:41+01:00 rocky systemd-logind[1814]: suspend requested from client PID 1770 ('upowerd') (unit upower.service)...
+2026-11-22T12:10:41+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:10:42+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:21:12.275 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:10:48+01:00 rocky systemd-sleep[105815]: System returned from sleep operation 'suspend'.
+2026-11-22T12:10:48+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:11:16+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:11:16+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:21:42.742 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:11:24+01:00 rocky systemd-sleep[106351]: System returned from sleep operation 'suspend'.
+2026-11-22T12:11:24+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:11:52+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:11:53+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:22:13.218 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:11:57+01:00 rocky systemd-sleep[106763]: System returned from sleep operation 'suspend'.
+2026-11-22T12:11:57+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:12:25+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:12:26+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:22:43.650 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T12:12:32+01:00 rocky systemd-sleep[107222]: System returned from sleep operation 'suspend'.
+2026-11-22T12:12:32+01:00 rocky kernel: PM: suspend exit
+2026-11-22T12:13:00+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T12:13:01+01:00 rocky /usr/libexec/gdm-wayland-session[5436]: 01:23:14.070 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T14:21:39+01:00 rocky /usr/libexec/gdm-wayland-session[27800]: 2026-11-22 14:21:39 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T14:29:17+01:00 rocky /usr/libexec/gdm-wayland-session[34896]: 2026-11-22 14:29:17 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T15:00:50+01:00 rocky /usr/libexec/gdm-wayland-session[105201]: 2026-11-22 15:00:50 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T15:15:04+01:00 rocky /usr/libexec/gdm-wayland-session[105183]: 00:14:14.158 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-22T18:43:03+01:00 rocky systemd-logind[1902]: suspend requested from client PID 16022 ('systemctl') (unit user@1000.service)...
+2026-11-22T18:43:03+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-22T18:43:10+01:00 rocky systemd-sleep[16086]: System returned from sleep operation 'suspend'.
+2026-11-22T18:43:10+01:00 rocky kernel: PM: suspend exit
+2026-11-22T19:05:27+01:00 rocky /usr/libexec/gdm-wayland-session[6611]: 2026-11-22 19:05:27 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T19:11:01+01:00 rocky /usr/libexec/gdm-wayland-session[5509]: 2026-11-22 19:11:01 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:21:41+01:00 rocky /usr/libexec/gdm-wayland-session[85371]: 2026-11-22 20:21:41 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:23:13+01:00 rocky /usr/libexec/gdm-wayland-session[88616]: 2026-11-22 20:23:13 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:23:44+01:00 rocky /usr/libexec/gdm-wayland-session[89314]: 2026-11-22 20:23:44 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:24:04+01:00 rocky /usr/libexec/gdm-wayland-session[89695]: 2026-11-22 20:24:04 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:25:25+01:00 rocky /usr/libexec/gdm-wayland-session[91118]: 2026-11-22 20:25:25 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:25:59+01:00 rocky /usr/libexec/gdm-wayland-session[92814]: 2026-11-22 20:25:59 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:26:02+01:00 rocky /usr/libexec/gdm-wayland-session[93392]: 2026-11-22 20:26:02 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:26:23+01:00 rocky /usr/libexec/gdm-wayland-session[94650]: 2026-11-22 20:26:23 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:26:25+01:00 rocky /usr/libexec/gdm-wayland-session[95160]: 2026-11-22 20:26:25 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:26:27+01:00 rocky /usr/libexec/gdm-wayland-session[95763]: 2026-11-22 20:26:27 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:26:51+01:00 rocky /usr/libexec/gdm-wayland-session[97056]: 2026-11-22 20:26:51 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:26:53+01:00 rocky /usr/libexec/gdm-wayland-session[97614]: 2026-11-22 20:26:53 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:27:17+01:00 rocky /usr/libexec/gdm-wayland-session[98917]: 2026-11-22 20:27:17 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:39:36+01:00 rocky /usr/libexec/gdm-wayland-session[115278]: 2026-11-22 20:39:36 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T20:47:26+01:00 rocky /usr/libexec/gdm-wayland-session[123183]: 2026-11-22 20:47:26 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T21:33:00+01:00 rocky /usr/libexec/gdm-wayland-session[159160]: 2026-11-22 21:33:00 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:26:10+01:00 rocky /usr/libexec/gdm-wayland-session[373526]: 2026-11-22 23:26:10 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:29:31+01:00 rocky /usr/libexec/gdm-wayland-session[6307]: 2026-11-22 23:29:31 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:42:28+01:00 rocky /usr/libexec/gdm-wayland-session[27498]: 2026-11-22 23:42:28 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:44:22+01:00 rocky /usr/libexec/gdm-wayland-session[29024]: 2026-11-22 23:44:22 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:47:57+01:00 rocky /usr/libexec/gdm-wayland-session[34766]: 2026-11-22 23:47:57 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:49:49+01:00 rocky /usr/libexec/gdm-wayland-session[36434]: 2026-11-22 23:49:49 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:52:04+01:00 rocky /usr/libexec/gdm-wayland-session[38151]: 2026-11-22 23:52:04 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-22T23:53:44+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-22 23:53:44 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T00:21:08+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T00:21:08+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 00:51:38.578 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T08:07:36+01:00 rocky systemd-sleep[45567]: System returned from sleep operation 'suspend'.
+2026-11-23T08:07:36+01:00 rocky kernel: PM: suspend exit
+2026-11-23T08:07:36+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 08:07:36 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T08:08:48+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T08:08:48+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 00:52:53.871 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T09:11:03+01:00 rocky systemd-sleep[48067]: System returned from sleep operation 'suspend'.
+2026-11-23T09:11:03+01:00 rocky kernel: PM: suspend exit
+2026-11-23T09:11:03+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 09:11:03 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T09:23:27+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T09:23:27+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 01:05:21.484 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T10:58:31+01:00 rocky systemd-sleep[56561]: System returned from sleep operation 'suspend'.
+2026-11-23T10:58:31+01:00 rocky kernel: PM: suspend exit
+2026-11-23T10:58:31+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 10:58:31 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T12:30:08+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T12:30:09+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 02:37:02.765 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T14:00:48+01:00 rocky systemd-sleep[218323]: System returned from sleep operation 'suspend'.
+2026-11-23T14:00:48+01:00 rocky kernel: PM: suspend exit
+2026-11-23T14:00:48+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 14:00:48 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T17:12:39+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T17:12:39+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 05:48:58.027 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T17:53:13+01:00 rocky systemd-sleep[529011]: System returned from sleep operation 'suspend'.
+2026-11-23T17:53:13+01:00 rocky kernel: PM: suspend exit
+2026-11-23T17:53:13+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 17:53:13 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T18:59:44+01:00 rocky systemd-logind[1859]: suspend requested from client PID 1837 ('upowerd') (unit upower.service)...
+2026-11-23T18:59:44+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T18:59:44+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 06:55:32.656 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T18:59:48+01:00 rocky systemd-sleep[554099]: System returned from sleep operation 'suspend'.
+2026-11-23T18:59:48+01:00 rocky kernel: PM: suspend exit
+2026-11-23T18:59:48+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 18:59:48 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T19:01:14+01:00 rocky systemd-logind[1859]: suspend requested from client PID 1837 ('upowerd') (unit upower.service)...
+2026-11-23T19:01:14+01:00 rocky kernel: PM: suspend entry (s2idle)
+2026-11-23T19:01:14+01:00 rocky /usr/libexec/gdm-wayland-session[6182]: 06:57:02.639 [ERROR] [wlr] [backend/drm/drm.c:1385] connector eDP-1: Failed to disable CRTC 152
+2026-11-23T19:01:21+01:00 rocky systemd-sleep[558252]: System returned from sleep operation 'suspend'.
+2026-11-23T19:01:21+01:00 rocky kernel: PM: suspend exit
+2026-11-23T19:01:21+01:00 rocky /usr/libexec/gdm-wayland-session[39956]: 2026-11-23 19:01:21 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)
+2026-11-23T19:07:40+01:00 rocky /usr/libexec/gdm-wayland-session[5978]: 2026-11-23 19:07:40 - [main.c:332] Found config * for output eDP-1 (Chimei Innolux Corporation 0x1652 0x0000FFA1)

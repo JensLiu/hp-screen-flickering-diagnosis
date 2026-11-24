@@ -1,0 +1,17 @@
+○ nvidia-suspend.service - NVIDIA system suspend actions
+     Loaded: loaded (/usr/lib/systemd/system/nvidia-suspend.service; enabled; preset: enabled)
+    Drop-In: /usr/lib/systemd/system/service.d
+             └─10-timeout-abort.conf
+     Active: inactive (dead)
+
+○ nvidia-resume.service - NVIDIA system resume actions
+     Loaded: loaded (/usr/lib/systemd/system/nvidia-resume.service; enabled; preset: enabled)
+    Drop-In: /usr/lib/systemd/system/service.d
+             └─10-timeout-abort.conf
+     Active: inactive (dead)
+
+○ nvidia-hibernate.service - NVIDIA system hibernate actions
+     Loaded: loaded (/usr/lib/systemd/system/nvidia-hibernate.service; enabled; preset: enabled)
+    Drop-In: /usr/lib/systemd/system/service.d
+             └─10-timeout-abort.conf
+     Active: inactive (dead)

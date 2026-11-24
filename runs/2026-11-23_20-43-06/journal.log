@@ -1,0 +1,418 @@
+Nov 23 20:44:00.550103 rocky /usr/libexec/gdm-wayland-session[5839]: 01:36:21.849 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:44:00.550103 rocky /usr/libexec/gdm-wayland-session[5839]: 01:36:21.849 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:44:15.803381 rocky /usr/libexec/gdm-wayland-session[5839]: 01:36:37.103 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:44:15.803381 rocky /usr/libexec/gdm-wayland-session[5839]: 01:36:37.103 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:44:22.473253 rocky /usr/libexec/gdm-wayland-session[5839]: 01:36:43.772 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:44:22.473253 rocky /usr/libexec/gdm-wayland-session[5839]: 01:36:43.772 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:45:35.464974 rocky /usr/libexec/gdm-wayland-session[5839]: 01:37:56.764 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:45:35.464974 rocky /usr/libexec/gdm-wayland-session[5839]: 01:37:56.764 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:46:31.306822 rocky /usr/libexec/gdm-wayland-session[98147]: qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55c659b85df0 but 0x0 is focused
+Nov 23 20:46:31.306822 rocky /usr/libexec/gdm-wayland-session[98147]: qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55c659b85df0 but 0x0 is focused
+Nov 23 20:46:33.051746 rocky /usr/libexec/gdm-wayland-session[98147]: qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55c659b85df0 but 0x0 is focused
+Nov 23 20:46:33.051746 rocky /usr/libexec/gdm-wayland-session[98147]: qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55c659b85df0 but 0x0 is focused
+Nov 23 20:46:49.153008 rocky kernel: input: AirPods de Yuechao (AVRCP) as /devices/virtual/input/input28
+Nov 23 20:46:49.175187 rocky systemd-logind[1850]: Watching system buttons on /dev/input/event20 (AirPods de Yuechao (AVRCP))
+Nov 23 20:46:51.525424 rocky bluetoothd[1780]: /org/bluez/hci0/dev_6C_12_70_5A_DB_37/sep2/fd0: fd(30) ready
+Nov 23 20:46:57.679581 rocky wireplumber[6042]: spa.bluez5.sink.media: 0x55de07e7e828: connection (/org/bluez/hci0/dev_6C_12_70_5A_DB_37/sep2/fd0) terminated unexpectedly
+Nov 23 20:46:57.701806 rocky bluetoothd[1780]: src/profile.c:ext_io_disconnected() Unable to get io data for Hands-Free Voice gateway: getpeername: Transport endpoint is not connected (107)
+Nov 23 20:47:00.939036 rocky kernel: input: AirPods de Yuechao (AVRCP) as /devices/virtual/input/input29
+Nov 23 20:47:00.962815 rocky systemd-logind[1850]: Watching system buttons on /dev/input/event20 (AirPods de Yuechao (AVRCP))
+Nov 23 20:47:12.243294 rocky bluetoothd[1780]: /org/bluez/hci0/dev_6C_12_70_5A_DB_37/fd0: fd(28) ready
+Nov 23 20:47:40.506275 rocky /usr/libexec/gdm-wayland-session[5839]: 01:40:01.805 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:47:40.506275 rocky /usr/libexec/gdm-wayland-session[5839]: 01:40:01.805 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:47:40.769552 rocky /usr/libexec/gdm-wayland-session[5839]: 01:40:02.069 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:47:40.769552 rocky /usr/libexec/gdm-wayland-session[5839]: 01:40:02.069 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:48:17.666278 rocky /usr/libexec/gdm-wayland-session[5839]: 01:40:38.965 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:48:17.666278 rocky /usr/libexec/gdm-wayland-session[5839]: 01:40:38.965 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:48:19.185251 rocky flicker-phase[207972]: idle 240
+Nov 23 20:48:45.854353 rocky /usr/libexec/gdm-wayland-session[5839]: 01:41:07.154 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:48:45.854353 rocky /usr/libexec/gdm-wayland-session[5839]: 01:41:07.154 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:48:53.060198 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Width' to '{TemplateBinding TitleWidth}': 'Could not convert '(null)' (null) to 'System.Double'.' (StackPanel #29131103)
+Nov 23 20:48:53.061501 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.062156 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Width' to '{TemplateBinding TitleWidth}': 'Could not convert '(null)' (null) to 'System.Double'.' (StackPanel #62863696)
+Nov 23 20:48:53.695119 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Width' to '{TemplateBinding TitleWidth}': 'Could not convert '(null)' (null) to 'System.Double'.' (StackPanel #7922836)
+Nov 23 20:48:53.711670 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.712077 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.712287 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.712423 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.714545 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.714742 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.714946 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.715456 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.715576 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:53.715704 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:48:54.209131 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Width' to '{TemplateBinding TitleWidth}': 'Could not convert '(null)' (null) to 'System.Double'.' (StackPanel #41086288)
+Nov 23 20:49:15.139828 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:49:15.139884 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 20:49:15.323969 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Data' to '{TemplateBinding Kind}': 'Could not convert '(do nothing)' (Avalonia.Data.DoNothingType) to 'Avalonia.Media.Geometry'.' (Path #3396115)
+Nov 23 20:49:53.324587 rocky /usr/libexec/gdm-wayland-session[5839]: 01:42:14.624 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:49:53.324587 rocky /usr/libexec/gdm-wayland-session[5839]: 01:42:14.624 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:50:31.474298 rocky /usr/libexec/gdm-wayland-session[5839]: 01:42:52.773 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:50:31.474298 rocky /usr/libexec/gdm-wayland-session[5839]: 01:42:52.774 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:50:47.170341 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:08.470 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:50:47.170341 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:08.470 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:50:49.651081 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:10.950 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:50:49.651081 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:10.950 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:50:50.833011 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:12.132 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:50:50.833011 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:12.132 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:50:50.933243 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:12.232 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:50:50.933243 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:12.232 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:51:07.564797 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:28.864 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:51:07.564797 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:28.864 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:51:15.864185 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:37.163 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:51:15.864185 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:37.163 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:51:19.748011 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:41.047 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:51:19.748011 rocky /usr/libexec/gdm-wayland-session[5839]: 01:43:41.047 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 20:54:36.639224 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Text' to '$templatedParent.Language.Item.Value' at 'Language': 'Value is null.' (TextBlock #56356956)
+Nov 23 20:54:57.583755 rocky flicker-phase[222552]: occt start 240
+Nov 23 20:56:23.803211 rocky wireplumber[6042]: spa.bluez5.sink.media: 0x55de07e7e828: connection (/org/bluez/hci0/dev_6C_12_70_5A_DB_37/fd0) terminated unexpectedly
+Nov 23 20:56:23.818364 rocky wireplumber[6042]: spa.audioconvert: 0x55de07e9fe90: (0 suppressed) out of buffers on port 0 3
+Nov 23 20:56:23.820013 rocky bluetoothd[1780]: src/profile.c:ext_io_disconnected() Unable to get io data for Hands-Free Voice gateway: getpeername: Transport endpoint is not connected (107)
+Nov 23 20:58:33.437613 rocky /usr/libexec/gdm-wayland-session[5839]: 01:50:54.737 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 20:58:33.437613 rocky /usr/libexec/gdm-wayland-session[5839]: 01:50:54.737 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:00:32.534681 rocky /usr/libexec/gdm-wayland-session[234457]: default
+Nov 23 21:00:32.534681 rocky /usr/libexec/gdm-wayland-session[234457]: do-not-disturb
+Nov 23 21:01:00.378787 rocky CROND[235456]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 23 21:01:00.388267 rocky run-parts[235459]: (/etc/cron.hourly) starting 0anacron
+Nov 23 21:01:00.396388 rocky run-parts[235465]: (/etc/cron.hourly) finished 0anacron
+Nov 23 21:01:00.397060 rocky CROND[235455]: (root) CMDEND (run-parts /etc/cron.hourly)
+Nov 23 21:04:14.960032 rocky /usr/libexec/gdm-wayland-session[5839]: 01:56:36.259 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:04:14.960032 rocky /usr/libexec/gdm-wayland-session[5839]: 01:56:36.259 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:04:15.131185 rocky /usr/libexec/gdm-wayland-session[5839]: 01:56:36.430 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:04:15.131185 rocky /usr/libexec/gdm-wayland-session[5839]: 01:56:36.430 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:06:02.315427 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Text' to '$templatedParent.Language.Item.Value' at 'Language': 'Value is null.' (TextBlock #30266656)
+Nov 23 21:06:12.226085 rocky kernel: ACPI Error: No handler for Region [CMS0] (00000000b7acdfef) [SystemCMOS] (20260408/evregion-131)
+Nov 23 21:06:12.264909 rocky kernel: ACPI Error: Region SystemCMOS (ID=5) has no handler (20260408/exfldio-261)
+Nov 23 21:06:12.264928 rocky kernel: ACPI Error: Aborting method \_SB.PC00.LPCB.EC0._Q33 due to previous error (AE_NOT_EXIST) (20260408/psparse-543)
+Nov 23 21:06:15.649936 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Text' to '$templatedParent.Language.Item.Value' at 'Language': 'Value is null.' (TextBlock #50549297)
+Nov 23 21:06:23.733507 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Text' to '$templatedParent.Language.Item.Value' at 'Language': 'Value is null.' (TextBlock #50549297)
+Nov 23 21:06:51.494876 rocky flicker-phase[248073]: add cpu ram
+Nov 23 21:08:10.404886 rocky /usr/libexec/gdm-wayland-session[5839]: 02:00:31.703 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:08:10.404886 rocky /usr/libexec/gdm-wayland-session[5839]: 02:00:31.704 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:08:41.375265 rocky flicker-mark[251016]: FLICKER START
+Nov 23 21:08:50.667078 rocky kernel: perf: interrupt took too long (21081 > 20832), lowering kernel.perf_event_max_sample_rate to 9000
+Nov 23 21:09:26.569879 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:26.586212 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:26.603889 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:26.619559 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:26.637065 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:09:26.643304 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:26.655307 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:26.674298 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:26.684236 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:26.688162 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:26.692457 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:26.698107 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:09:26.705436 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:26.713439 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:26.721953 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:26.724649 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:26.732956 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:26.734783 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:09:26.740637 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:26.745383 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:26.751131 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:26.753104 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:26.768291 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:26.774801 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:09:26.780044 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:26.787857 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:26.795815 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:26.804125 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:09:26.816031 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:26.834717 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 02
+Nov 23 21:09:27.771163 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX -> (ret=  3) 00 00 00
+Nov 23 21:09:27.790054 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX <- (ret=  3) 00 aa 01
+Nov 23 21:09:27.810844 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 01
+Nov 23 21:09:27.822856 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00000 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:09:27.831435 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02200 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:09:27.838816 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00010 AUX -> (ret= 16) a4 1f 30 2a 76 2f bc 34 48 3f 60 54 78 69 34 9e
+Nov 23 21:09:27.844446 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00107 AUX <- (ret=  2) 00 01
+Nov 23 21:09:27.854857 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00101 AUX <- (ret=  1) 84
+Nov 23 21:09:27.862863 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00115 AUX <- (ret=  1) 07
+Nov 23 21:09:27.883269 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 21 00 00 00 00
+Nov 23 21:09:27.904712 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 11 11 80 00 00 00
+Nov 23 21:09:27.917852 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 07 00 00 00 00
+Nov 23 21:09:27.928374 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:09:27.938767 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  1) 00
+Nov 23 21:09:29.814958 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 05 00 00
+Nov 23 21:09:33.183263 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.202507 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.211490 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:33.221108 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.239282 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:33.249361 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:09:33.259363 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.267226 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.274216 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:09:33.275577 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.282266 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.290438 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.303105 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:09:33.305671 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.312400 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.319332 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.327382 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.334281 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.342256 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.349170 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.357190 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.364264 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.372339 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.384251 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.392382 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.398639 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.406693 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.418793 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.424258 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.431112 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.447864 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.454535 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.456285 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.461829 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.462957 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.463606 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.468185 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.469068 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.474527 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.475929 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.481973 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.483674 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.484493 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.489081 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.490008 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.494087 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.495633 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.500305 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.501318 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.502079 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.502761 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.507410 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.508283 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.509032 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:09:33.509665 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:09:33.514215 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:09:33.515230 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 02
+Nov 23 21:09:34.350218 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX -> (ret=  3) 00 00 00
+Nov 23 21:09:34.352969 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX <- (ret=  3) 00 aa 01
+Nov 23 21:09:34.369175 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 01
+Nov 23 21:09:34.377529 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00000 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:09:34.393300 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02200 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:09:34.395422 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00010 AUX -> (ret= 16) a4 1f 30 2a 76 2f bc 34 48 3f 60 54 78 69 34 9e
+Nov 23 21:09:34.405899 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00107 AUX <- (ret=  2) 00 01
+Nov 23 21:09:34.414681 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00101 AUX <- (ret=  1) 84
+Nov 23 21:09:34.416156 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00115 AUX <- (ret=  1) 07
+Nov 23 21:09:34.424698 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 21 00 00 00 00
+Nov 23 21:09:34.426283 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 11 11 80 00 00 00
+Nov 23 21:09:34.435035 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 07 00 00 00 00
+Nov 23 21:09:34.436339 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:09:34.451433 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  1) 00
+Nov 23 21:09:36.403853 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 05 00 00
+Nov 23 21:11:43.056996 rocky kernel: perf: interrupt took too long (26383 > 26351), lowering kernel.perf_event_max_sample_rate to 7000
+Nov 23 21:14:13.631370 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:14:13.671729 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:14:13.688813 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:14:13.707114 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:14:13.717982 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:14:13.732142 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:14:13.743579 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:14:13.755048 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:14:13.763270 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:14:13.778471 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:14:13.789965 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:14:13.798803 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:14:13.806978 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:14:13.814588 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:14:13.821653 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 05 00 00
+Nov 23 21:14:13.833660 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 05 00 00
+Nov 23 21:14:16.991268 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:14:17.004090 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:14:17.015174 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:14:17.017306 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:14:17.023485 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:15:42.597066 rocky kernel: perf: interrupt took too long (33245 > 32978), lowering kernel.perf_event_max_sample_rate to 6000
+Nov 23 21:17:12.696992 rocky /usr/libexec/gdm-wayland-session[5839]: 02:09:33.995 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:12.696992 rocky /usr/libexec/gdm-wayland-session[5839]: 02:09:33.995 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:15.687031 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:17:15.752618 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:17:15.775585 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 05 00 00
+Nov 23 21:17:15.795913 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:17:20.436714 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:17:20.456609 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:17:20.464095 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:17:20.474943 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:17:20.481467 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:17:20.489165 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:17:20.497087 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:17:20.503018 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:17:20.510620 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:17:20.521472 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:17:20.530769 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:17:20.537912 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:17:20.550107 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:17:20.564057 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:17:20.576679 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:17:20.584932 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 00 00 00 00
+Nov 23 21:17:20.599800 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:17:20.648211 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 05 00 00
+Nov 23 21:17:20.662991 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 05 00 00
+Nov 23 21:17:24.909157 rocky /usr/libexec/gdm-wayland-session[5839]: 02:09:46.206 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:24.909157 rocky /usr/libexec/gdm-wayland-session[5839]: 02:09:46.207 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:25.794326 rocky /usr/libexec/gdm-wayland-session[5839]: 02:09:47.092 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:25.794326 rocky /usr/libexec/gdm-wayland-session[5839]: 02:09:47.092 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:38.738169 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:00.035 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:38.738169 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:00.036 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:41.982514 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:03.280 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:41.982514 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:03.280 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:48.588112 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:09.887 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:48.588112 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:09.887 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:53.747012 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:15.045 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:53.747012 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:15.046 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:54.612915 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:15.911 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:54.612915 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:15.911 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:55.564068 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:16.860 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:55.564068 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:16.861 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:56.355772 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:17.653 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:56.355772 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:17.654 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:17:57.992517 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:19.290 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:17:57.992517 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:19.291 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:10.185394 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:31.484 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:10.185394 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:31.484 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:11.403684 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:32.702 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:11.403684 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:32.702 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:12.000504 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:33.298 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:12.000504 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:33.299 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:17.569535 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:38.867 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:17.569535 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:38.868 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:17.852562 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:39.148 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:17.852562 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:39.148 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:18.329945 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:39.622 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:18.329945 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:39.623 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:18.959920 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:40.258 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:18.959920 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:40.258 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:20.275963 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:41.573 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:20.275963 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:41.574 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:20.689152 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:41.986 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:20.689152 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:41.987 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:23.069961 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:44.367 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:23.069961 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:44.368 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:23.657736 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:44.955 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:23.657736 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:44.956 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:23.810362 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:18:23.828822 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:18:23.835737 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:18:23.843436 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:18:23.851059 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:18:23.856884 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:18:23.862933 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:18:23.870203 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 00 00 00
+Nov 23 21:18:23.877483 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:18:30.081971 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:51.380 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:30.081971 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:51.381 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:30.598978 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:51.897 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:30.598978 rocky /usr/libexec/gdm-wayland-session[5839]: 02:10:51.897 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:51.425002 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:12.723 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:51.425002 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:12.724 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:51.995944 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:13.294 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:51.995944 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:13.295 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:52.635056 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:13.934 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:52.635056 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:13.934 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:53.183049 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:14.482 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:18:53.183049 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:14.483 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:18:57.543628 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00200 AUX -> (ret=  2) 01 00
+Nov 23 21:18:57.552963 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02005 AUX -> (ret=  1) 00
+Nov 23 21:18:57.571146 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 00 00 80 00 00 00
+Nov 23 21:18:57.586238 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x0200b AUX -> (ret=  1) 00
+Nov 23 21:18:57.600966 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 05 00 00
+Nov 23 21:19:15.954028 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:37.251 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:19:15.954028 rocky /usr/libexec/gdm-wayland-session[5839]: 02:11:37.252 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:20:38.543737 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 21:20:38.543983 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'BorderBrush' to '{TemplateBinding BorderThickness}': 'Could not convert '0,0,0,0' (Avalonia.Thickness) to 'Avalonia.Media.IBrush'.' (Border #PART_RootBorder)
+Nov 23 21:20:38.586294 rocky OCCTGUI[180248]: [Binding]An error occurred binding 'Data' to '{TemplateBinding Kind}': 'Could not convert '(do nothing)' (Avalonia.Data.DoNothingType) to 'Avalonia.Media.Geometry'.' (Path #18605638)
+Nov 23 21:20:45.899639 rocky flicker-phase[266837]: occt stop
+Nov 23 21:21:13.491166 rocky flicker-mark[267761]: FLICKER END
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: ghostty version=1.4.0-3.fc45
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: ghostty build optimize=fast
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: runtime=.gtk
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: font_backend=.fontconfig_freetype
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: dependency harfbuzz=15.0.0
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: dependency fontconfig=21803
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: renderer=renderer.generic.Renderer(renderer.OpenGL)
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info: libxev default backend=io_uring
+Nov 23 21:24:11.402285 rocky /usr/libexec/gdm-wayland-session[273921]: info(os_locale): setlocale from env result=en_GB.UTF-8
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(gtk): GTK version build=4.24.1 runtime=4.24.1
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(gtk): libadwaita version build=1.10.0 runtime=1.10.0
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info: reading configuration file path=/home/yuechao/.config/ghostty/config
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(cli): compatibility handler for background-blur-radius handled error, you may be using a deprecated field: error.InvalidField
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(cli): compatibility handler for scrollback-limit handled error, you may be using a deprecated field: error.InvalidField
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(cli): compatibility handler for copy-on-select handled error, you may be using a deprecated field: error.InvalidValue
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(cli): compatibility handler for background-blur-radius handled error, you may be using a deprecated field: error.InvalidField
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(cli): compatibility handler for scrollback-limit handled error, you may be using a deprecated field: error.InvalidField
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(cli): compatibility handler for copy-on-select handled error, you may be using a deprecated field: error.InvalidValue
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(config): default shell src=passwd value=/usr/bin/zsh
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: info(config): default working directory src=passwd value=/home/yuechao
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: warning(gtk_ghostty_application): setting GDK_DEBUG=
+Nov 23 21:24:11.441276 rocky /usr/libexec/gdm-wayland-session[273921]: warning(gtk_ghostty_application): setting GDK_DISABLE=vulkan
+Nov 23 21:24:11.469547 rocky /usr/libexec/gdm-wayland-session[8688]: info(gtk_ghostty_surface): surface content scale: x=2 y=2 dpi=192x192 font_size=12
+Nov 23 21:24:11.474333 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): found Ghostty resources dir: /usr/share/ghostty
+Nov 23 21:24:11.474345 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): shell integration automatically injected shell=.zsh
+Nov 23 21:24:11.480863 rocky /usr/libexec/gdm-wayland-session[8688]: info(opengl): loaded OpenGL 4.6
+Nov 23 21:24:11.493489 rocky systemd[5731]: Started app-ghostty-surface-transient-273967.scope.
+Nov 23 21:24:11.508588 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): started subcommand path=/bin/sh pid=273967
+Nov 23 21:24:13.324168 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 02
+Nov 23 21:24:14.274071 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX -> (ret=  3) 00 00 00
+Nov 23 21:24:14.274539 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX <- (ret=  3) 00 aa 01
+Nov 23 21:24:14.274724 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 01
+Nov 23 21:24:14.274920 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00000 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:24:14.275121 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02200 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:24:14.275264 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00010 AUX -> (ret= 16) a4 1f 30 2a 76 2f bc 34 48 3f 60 54 78 69 34 9e
+Nov 23 21:24:14.275462 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00107 AUX <- (ret=  2) 00 01
+Nov 23 21:24:14.275597 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00101 AUX <- (ret=  1) 84
+Nov 23 21:24:14.275787 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00115 AUX <- (ret=  1) 05
+Nov 23 21:24:14.275990 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 21 00 00 00 00
+Nov 23 21:24:14.277033 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 11 11 80 00 00 00
+Nov 23 21:24:14.277424 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 07 00 00 00 00
+Nov 23 21:24:14.294050 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:24:14.294364 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  1) 00
+Nov 23 21:24:14.395686 rocky /usr/libexec/gdm-wayland-session[5839]: 02:16:35.695 [ERROR] [wlr] [libinput] client bug: timer event6 tap: scheduled expiry is in the past (-309ms), your system is too slow
+Nov 23 21:24:14.395686 rocky /usr/libexec/gdm-wayland-session[5839]: 02:16:35.695 [ERROR] [wlr] [libinput] client bug: timer event6 hold: scheduled expiry is in the past (-449ms), your system is too slow
+Nov 23 21:24:15.513990 rocky /usr/libexec/gdm-wayland-session[8688]: info(io_exec): pty fd closed, read thread exiting
+Nov 23 21:24:15.524774 rocky /usr/libexec/gdm-wayland-session[8688]: info(surface): surface closed id=e00d01b3befcb9f6
+Nov 23 21:24:16.338190 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 05 00 00
+Nov 23 21:24:52.444811 rocky flicker-phase[275550]: occt start 60 add cpu ram
+Nov 23 21:27:28.434968 rocky kernel: perf: interrupt took too long (41571 > 41556), lowering kernel.perf_event_max_sample_rate to 4000
+Nov 23 21:34:47.760028 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:09.059 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:34:47.760028 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:09.060 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:34:48.317042 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:09.616 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:34:48.317042 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:09.616 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:34:49.823614 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:11.122 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:34:49.823614 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:11.123 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:34:59.955231 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.254 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:34:59.955231 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.254 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:35:00.021929 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.321 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:35:00.021929 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.321 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:35:00.055283 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.354 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:35:00.055283 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.354 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:35:00.072179 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.371 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:35:00.072179 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.371 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:35:00.239299 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.538 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:35:00.239299 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:21.538 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:35:01.710080 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 02
+Nov 23 21:35:02.635855 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX -> (ret=  3) 00 00 00
+Nov 23 21:35:02.636216 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00300 AUX <- (ret=  3) 00 aa 01
+Nov 23 21:35:02.636375 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00600 AUX <- (ret=  1) 01
+Nov 23 21:35:02.636499 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00000 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:35:02.636657 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x02200 AUX -> (ret= 15) 14 1e c4 c1 00 00 01 c0 02 00 02 00 08 09 84
+Nov 23 21:35:02.638113 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00010 AUX -> (ret= 16) a4 1f 30 2a 76 2f bc 34 48 3f 60 54 78 69 34 9e
+Nov 23 21:35:02.638318 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00107 AUX <- (ret=  2) 00 01
+Nov 23 21:35:02.638466 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00101 AUX <- (ret=  1) 84
+Nov 23 21:35:02.638582 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00115 AUX <- (ret=  1) 07
+Nov 23 21:35:02.638696 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 21 00 00 00 00
+Nov 23 21:35:02.638822 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 11 11 80 00 00 00
+Nov 23 21:35:02.638908 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  5) 07 00 00 00 00
+Nov 23 21:35:02.655957 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 81 00 00 00
+Nov 23 21:35:02.656140 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_write [drm_display_helper]] AUX A/DDI A/PHY A: 0x00102 AUX <- (ret=  1) 00
+Nov 23 21:35:04.657115 rocky kernel: i915 0000:00:02.0: [drm:drm_dp_dpcd_read [drm_display_helper]] AUX A/DDI A/PHY A: 0x00202 AUX -> (ret=  6) 77 77 01 05 00 00
+Nov 23 21:35:16.021440 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:37.321 [ERROR] [wlr] [backend/drm/atomic.c:82] connector eDP-1: Atomic commit failed: Device or resource busy
+Nov 23 21:35:16.021440 rocky /usr/libexec/gdm-wayland-session[5839]: 02:27:37.321 [ERROR] [sway/desktop/output.c:307] Page-flip failed on output eDP-1
+Nov 23 21:35:21.007413 rocky flicker-phase[289934]: RECORDING STOP

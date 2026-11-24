@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Result at a glance}{3}{section.1}%
+\contentsline {section}{\numberline {2}System under test}{4}{section.2}%
+\contentsline {section}{\numberline {3}Symptom and history}{4}{section.3}%
+\contentsline {section}{\numberline {4}How the data was collected}{4}{section.4}%
+\contentsline {paragraph}{Test conditions throughout all experiments.}{4}{section*.5}%
+\contentsline {subsection}{\numberline {4.1}Making the display link visible: DRM DisplayPort debug logging}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Session recorder}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}User markers}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Load generator}{5}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Tests run and results}{5}{section.5}%
+\contentsline {section}{\numberline {6}Evidence: what the link-loss log lines mean}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Reading the panel's link status (DPCD \texttt {0x202})}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Annotated real event (21:09:26--21:09:28)}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Signal chain: who generates the signal}{7}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Why 240\,Hz fails and 60\,Hz does not}{7}{section.7}%
+\contentsline {section}{\numberline {8}Causes ruled out}{8}{section.8}%
+\contentsline {section}{\numberline {9}Interpretation}{8}{section.9}%
+\contentsline {section}{\numberline {10}How to reproduce}{8}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Visual reproduction}{8}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Reproduction with link-level evidence}{9}{subsection.10.2}%
+\contentsline {section}{\numberline {11}Test environment provided to technicians}{9}{section.11}%
+\contentsline {section}{\numberline {12}Contact}{9}{section.12}%
+\contentsline {section}{\numberline {13}Limitations}{10}{section.13}%
+\contentsline {section}{\numberline {14}Conclusion and requested repair}{10}{section.14}%
+\contentsline {section}{\numberline {A}Data files}{10}{section.A}%
+\contentsline {section}{\numberline {B}Scripts}{10}{section.B}%
+\contentsline {subsection}{\numberline {B.1}\texttt {record-session.sh}: session recorder}{10}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}\texttt {mark.sh}: flicker and phase marker}{12}{subsection.B.2}%
+\contentsline {subsection}{\numberline {B.3}\texttt {display-info.sh}: desktop detection (GNOME, sway, Hyprland)}{13}{subsection.B.3}%

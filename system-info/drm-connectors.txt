@@ -1,0 +1,6 @@
+card0-eDP-2: disconnected enabled=disabled
+card0-HDMI-A-1: disconnected enabled=disabled
+card1-DP-1: disconnected enabled=disabled
+card1-eDP-1: connected enabled=enabled
+card0 -> nvidia
+card1 -> i915

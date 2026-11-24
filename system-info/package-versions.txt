@@ -1,0 +1,9 @@
+sway-1.12-2.fc45.x86_64
+wlroots-0.20.2-2.fc45.x86_64
+package wlroots0.19 is not installed
+mesa-dri-drivers-26.2.7-1.fc45.x86_64
+mesa-dri-drivers-26.2.7-1.fc45.i686
+kernel-7.2.11-300.fc45.x86_64
+kernel-7.3.4-300.fc45.x86_64
+linux-firmware-20261019-1.fc45.noarch
+upower-1.91.5-1.fc45.x86_64
